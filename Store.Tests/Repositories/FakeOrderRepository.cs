@@ -7,7 +7,7 @@ namespace Store.Tests.Repositories
   {
     public void Save(Order order)
     {
-      throw new NotImplementedException();
+      
     }
   }
 }
