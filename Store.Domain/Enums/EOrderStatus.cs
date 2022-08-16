@@ -4,6 +4,6 @@ namespace Store.Domain.Enums
   {
     WaitingPayment = 1,
     WaitingDelivery = 2,
-    Caceled = 3
+    Canceled = 3
   }
 }
